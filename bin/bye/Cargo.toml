@@ -2,5 +2,7 @@
 name = "bye"
 version = "0.1.0"
 edition = "2021"
+description = "Bye sample for Rust"
+license = "MIT"
 
 [dependencies]

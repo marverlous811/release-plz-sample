@@ -2,5 +2,7 @@
 name = "hello"
 version = "0.1.0"
 edition = "2021"
+description = "Hello sample for Rust"
+license = "MIT"
 
 [dependencies]
